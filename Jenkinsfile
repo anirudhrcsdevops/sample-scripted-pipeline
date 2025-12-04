@@ -10,7 +10,7 @@ node {
         echo "Step 1: Fetching source code from Git..."
 
         // Replace this with your repo URL
-        git 'https://github.com/your-username/scripted-poc.git'
+        git 'https://github.com/anirudhrcsdevops/sample-scripted-pipeline.git'
     }
 
     /*************** Stage 2: Build ***************/
